@@ -1,0 +1,11 @@
+#map {
+    width:600px;
+    height:500px;
+}
+#icon{
+    class:d-inline-block align-top;
+    margin-right: 1rem;
+}
+#icon:hover{
+    filter: invert(50%);
+}
